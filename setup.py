@@ -21,7 +21,7 @@ setup(
     url = 'https://github.com/quinode/haystachES-fr',
     download_url = 'https://github.com/quinode/haystachES-fr/tarball/master',
 
-    license = 'README.md',
-    description = 'A franch haystack backend for ElasticSearch',
+    license = 'README.me',
+    description = 'A french haystack backend for ElasticSearch',
     long_description = open('README.md').read(),
 )
