@@ -17,7 +17,7 @@ setup(
         'haystack_fr',
         'haystack_fr.backends',
     ],
-    install_requires = ['haystack'],
+    # install_requires = ['haystack'],   # No please install haystack 2
     url = 'https://github.com/quinode/haystachES-fr',
     download_url = 'https://github.com/quinode/haystachES-fr/tarball/master',
 
